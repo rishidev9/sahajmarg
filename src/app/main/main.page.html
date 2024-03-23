@@ -1,0 +1,94 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Babuji Sahaj Marg
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-refresher slot="fixed" (ionRefresh)="refresh($event)">
+    <ion-refresher-content></ion-refresher-content>
+  </ion-refresher>
+  
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">
+        Babuji Sahaj Marg
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+  
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <ion-card [routerLink]="'/home/' + 'LalajiBooks'">
+          <img alt="LalajiBooks" src="https://babujisahajmarg.in/images/serv-01.png" />
+          <ion-card-header>
+            <ion-card-title>LalajiBooks</ion-card-title>
+            <ion-card-subtitle>Truth_Eternal || Autobiography_of-Lalaji || Aroma-of-Divine-Duality</ion-card-subtitle>
+          </ion-card-header>
+
+        </ion-card>
+      </ion-col>
+      <ion-col>
+        <ion-card>
+          <img alt="Babujibooks" src="https://babujisahajmarg.in/images/serv-02.png" />
+          <ion-card-header>
+            <ion-card-title>Babuji books</ion-card-title>
+            <ion-card-subtitle>including autobiography || Reality_at_Dawn || Towards-Infinity || Efficacity_of_Raja_Yoga</ion-card-subtitle>
+          </ion-card-header>
+        
+
+        </ion-card>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-card>
+          <img alt="Babuji Autobiographys" src="https://babujisahajmarg.in/images/serv-05.png" />
+          <ion-card-header>
+            <ion-card-title>Babuji Autobiography</ion-card-title>
+            <ion-card-subtitle>including telugu autobiography</ion-card-subtitle>
+          </ion-card-header>
+        </ion-card>
+      </ion-col>
+      <ion-col>
+        <ion-card>
+          <img alt="Babuji Audio books" src="https://babujisahajmarg.in/images/serv-03.png" />
+          <ion-card-header>
+            <ion-card-title>Babuji Audio books</ion-card-title>
+            <ion-card-subtitle>Divine-Light || Intercommunion || Constant-Remembrance || Relationship-with-Master</ion-card-subtitle>
+          </ion-card-header>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col>
+        <ion-card>
+          <img alt="Babuji Associates Books" src="https://babujisahajmarg.in/images/serv-04.png" />
+          <ion-card-header>
+            <ion-card-title>Babuji Associates Books</ion-card-title>
+            <ion-card-subtitle>Saint Kasturi || Spiritual correspondence with Babuji</ion-card-subtitle>
+          </ion-card-header>
+        </ion-card>
+      </ion-col>
+        <ion-col>
+        <ion-card>
+          <img alt="Babuji Audio books" src="https://babujisahajmarg.in/images/serv-03.png" />
+          <ion-card-header>
+            <ion-card-title>Babuji Audio books</ion-card-title>
+            <ion-card-subtitle>DSaint Kasturi || Spiritual correspondence with Babuji</ion-card-subtitle>
+          </ion-card-header>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+
+  </ion-grid>
+
+
+  <ion-list>
+    <app-message *ngFor="let message of getMessages()" [message]="message"></app-message>
+  </ion-list>
+</ion-content>
