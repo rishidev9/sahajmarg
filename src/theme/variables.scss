@@ -4,6 +4,9 @@
 /** Ionic CSS Variables **/
 :root {
   /** primary **/
+   ion-footer.md.footer-md.footer-toolbar-padding.hydrated {
+    background:  #f1f3f4;
+   }
   --ion-color-primary: #ffc409;
   --ion-color-primary-rgb: 255, 196, 9;
   --ion-color-primary-contrast: #000000;
@@ -83,6 +86,9 @@
    */
 
   body {
+    ion-footer.md.footer-md.footer-toolbar-padding.hydrated {
+      background:#3b3b3b !important;
+     }
     --ion-color-primary: #ffd534;
     --ion-color-primary-rgb: 255, 213, 52;
     --ion-color-primary-contrast: #000000;
@@ -197,6 +203,7 @@
    */
 
   .md body {
+    --ion-footer-background: #383838;
     --ion-background-color: #121212;
     --ion-background-color-rgb: 18,18,18;
 

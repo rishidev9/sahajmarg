@@ -1,7 +1,7 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title>
-      Inbox
+    <ion-title *ngIf="id" >
+      {{id}}
     </ion-title>
     <ion-buttons slot="start">
       <ion-back-button [text]="getBackButtonText()" defaultHref="/"></ion-back-button>
@@ -16,22 +16,57 @@
   
   <ion-header collapse="condense">
     <ion-toolbar>
-      <ion-title size="large">
-        Inbox
+      <ion-title *ngIf="id" size="large">
+        {{id}}
       </ion-title>
     </ion-toolbar>
   </ion-header>
   
   <ion-list>
-    <div *ngFor="let file of files">
+    <video  #videoPlayer *ngIf="type === 'video' && currentUrl.length > 0"  controls>
+      <source [src]="currentUrl">
+    </video>
+    <div *ngIf="files && files.length > 0">
+ 
+      <div *ngFor="let file of files">
+        <!-- [routerLink]="'/message/' + message.id"  -->
+        <ion-item style="padding: 15px;" (click)="openUrl(file.url)" [button]="true" *ngIf="file" [detail]="false">
+          <ion-icon style="margin-right: 10px;" name="document-outline"></ion-icon>
+          <ion-label class="ion-text-wrap">
+              {{ file.name }}
+          </ion-label>
+          </ion-item>
+          
+      </div>
+
+      
+    </div>
+
+    <div *ngIf="categories && categories.length > 0">
+    <div *ngFor="let category of categories">
       <!-- [routerLink]="'/message/' + message.id"  -->
-      <ion-item (click)="openPdfUrl(file.url)" [button]="true" *ngIf="file" [detail]="false">
-        <ion-icon slot="start" name="document-outline"></ion-icon>
+      <ion-item style="padding: 15px;" (click)="getFiles(category.id)" [button]="true" *ngIf="category" [detail]="false">
+        <ion-icon style="margin-right: 10px;" name="document-outline"></ion-icon>
         <ion-label class="ion-text-wrap">
-            {{ file.name }}
+            {{ category.name }}
         </ion-label>
         </ion-item>
     </div>
-    <app-message *ngFor="let message of getMessages()" [message]="message"></app-message>
+    </div>
+    <!-- <app-message *ngFor="let message of getMessages()" [message]="message"></app-message> -->
   </ion-list>
+
 </ion-content>
+<ion-footer  *ngIf="type === 'audio' && currentUrl" >
+  <audio style="display: block;
+  margin: auto;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  outline: none;" [src]="currentUrl" controls></audio>
+  <!-- <ion-card>
+    <ion-card-content>
+
+    </ion-card-content>
+  </ion-card> -->
+</ion-footer>

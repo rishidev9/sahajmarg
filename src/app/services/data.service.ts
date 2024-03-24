@@ -2213,15 +2213,40 @@ export class DataService {
 
   public getFilesById(id: any) {
     let query = '';
+    query = id;
     if (id === 'LalajiBooks') {
-        query = 'Lalaji%20Books';
+      query = 'Lalaji%20Books';
+    }
+    if (id === 'BabujiAutobiography') {
+      query = 'Books\/Autobiography';
+    }
+    if (id === 'BabujiAudio') {
+      query = 'assests\/Audio';
+    }
+    if (id === 'RESEARCH BOOKS & OTHER BOOKS') {
+      query = 'Esotericism';
+    }
+    if (id === 'Videos') {
+      query = 'assests\/Videos';
     }
 
+    
     let newFiles = [];
     if (this.Data && this.Data.length > 0) {
       newFiles = this.Data.filter((item: any) => {
           return item.url && item.url.includes(query);
       });
+  }
+
+  if (id = "Videos") {
+    let newFiles2 = [];
+    query = 'youtube'
+    if (this.Data && this.Data.length > 0) {
+      newFiles2 = this.Data.filter((item: any) => {
+          return item.url && item.url.includes(query);
+      });
+    }
+    newFiles = newFiles.concat(newFiles2)
   }
 
     return newFiles;
