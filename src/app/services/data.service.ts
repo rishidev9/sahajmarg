@@ -2238,7 +2238,7 @@ export class DataService {
       });
   }
 
-  if (id = "Videos") {
+  if (id === "Videos") {
     let newFiles2 = [];
     query = 'youtube'
     if (this.Data && this.Data.length > 0) {
