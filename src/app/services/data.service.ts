@@ -2213,7 +2213,7 @@ export class DataService {
   "url": "https:\/\/babujisahajmarg.in\/assests\/Books\/Esotericism\/SAHAJ%20M%C4%80RG%20SADHANA%20OF%20ESOTERICISM%20-%20PART-1.pdf"
  },
  {
-  "name": "SSAHAJ MĀRG SADHANA OF ESOTERICISM PART -2",
+  "name": "SAHAJ MĀRG SADHANA OF ESOTERICISM PART -2",
   "url": "https:\/\/babujisahajmarg.in\/assests\/Books\/Esotericism\/SAHAJ%20M%C4%80RG%20%20SADHANA%20OF%20ESOTERICISM%20PART%20-2.pdf"
  },
  {
@@ -2839,6 +2839,1102 @@ export class DataService {
  {
   "name": "82-30-04 83th b.bd surat.pdf",
   "url": "https:\/\/babujisahajmarg.in\/assests\/Books\/Esotericism\/Souvniers\/82-30-04%2083th%20b.bd%20surat.pdf"
+ },
+ {
+  "name": "011Prasthaavana.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%85%E0%B0%A8%E0%B0%82%E0%B0%A4%E0%B0%82%E0%B0%B5%E0%B1%88%E0%B0%AA%E0%B1%81-srcm\/011Prasthaavana.mp3"
+ },
+ {
+  "name": "022Mundumaata.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%85%E0%B0%A8%E0%B0%82%E0%B0%A4%E0%B0%82%E0%B0%B5%E0%B1%88%E0%B0%AA%E0%B1%81-srcm\/022Mundumaata.mp3"
+ },
+ {
+  "name": "033Gnaanamu.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%85%E0%B0%A8%E0%B0%82%E0%B0%A4%E0%B0%82%E0%B0%B5%E0%B1%88%E0%B0%AA%E0%B1%81-srcm\/033Gnaanamu.mp3"
+ },
+ {
+  "name": "044Grandhlu.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%85%E0%B0%A8%E0%B0%82%E0%B0%A4%E0%B0%82%E0%B0%B5%E0%B1%88%E0%B0%AA%E0%B1%81-srcm\/044Grandhlu.mp3"
+ },
+ {
+  "name": "055AnthimaSthithi.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%85%E0%B0%A8%E0%B0%82%E0%B0%A4%E0%B0%82%E0%B0%B5%E0%B1%88%E0%B0%AA%E0%B1%81-srcm\/055AnthimaSthithi.mp3"
+ },
+ {
+  "name": "066Anubandhamu01.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%85%E0%B0%A8%E0%B0%82%E0%B0%A4%E0%B0%82%E0%B0%B5%E0%B1%88%E0%B0%AA%E0%B1%81-srcm\/066Anubandhamu01.mp3"
+ },
+ {
+  "name": "077Anubandhamu02.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%85%E0%B0%A8%E0%B0%82%E0%B0%A4%E0%B0%82%E0%B0%B5%E0%B1%88%E0%B0%AA%E0%B1%81-srcm\/077Anubandhamu02.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_01_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_01_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_02_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_02_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_03_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_03_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_04_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_04_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_05_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_05_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_06_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_06_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_07_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_07_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_08_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_08_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_09_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_09_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-1_10_of_10~1.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-1\/RuthuVaani_Vol-1_10_of_10~1.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-2_01_of_08.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-2\/RuthuVaani_Vol-2_01_of_08.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-2_02_of_08.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-2\/RuthuVaani_Vol-2_02_of_08.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-2_03_of_08.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-2\/RuthuVaani_Vol-2_03_of_08.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-2_04_of_08.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-2\/RuthuVaani_Vol-2_04_of_08.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-2_05_of_08.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-2\/RuthuVaani_Vol-2_05_of_08.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-2_06_of_08.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-2\/RuthuVaani_Vol-2_06_of_08.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-2_07_of_08.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-2\/RuthuVaani_Vol-2_07_of_08.mp3"
+ },
+ {
+  "name": "RuthuVaani_Vol-2_08_of_08.mp3",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/BabujiTeluguAudioBooks\/%E0%B0%8B%E0%B0%A4%E0%B0%B5%E0%B0%BE%E0%B0%A3%E0%B0%BF-2\/RuthuVaani_Vol-2_08_of_08.mp3"
+ },
+ {
+  "name": "1976 ashram opening day.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/1976 ashram opening day.jpg"
+ },
+ {
+  "name": "20190830_164923.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20190830_164923.jpg"
+ },
+ {
+  "name": "20190912_080302.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20190912_080302.jpg"
+ },
+ {
+  "name": "20200711_082648.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200711_082648.jpg"
+ },
+ {
+  "name": "20200711_082722.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200711_082722.jpg"
+ },
+ {
+  "name": "20200717_143525.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_143525.png"
+ },
+ {
+  "name": "20200717_143606.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_143606.png"
+ },
+ {
+  "name": "20200717_143755.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_143755.png"
+ },
+ {
+  "name": "20200717_144531.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_144531.png"
+ },
+ {
+  "name": "20200717_150252.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_150252.png"
+ },
+ {
+  "name": "20200717_155711.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_155711.png"
+ },
+ {
+  "name": "20200717_155741.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_155741.png"
+ },
+ {
+  "name": "20200717_155808.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_155808.png"
+ },
+ {
+  "name": "20200717_155831.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_155831.png"
+ },
+ {
+  "name": "20200717_155858.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_155858.png"
+ },
+ {
+  "name": "20200717_155924.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_155924.png"
+ },
+ {
+  "name": "20200717_155946.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_155946.png"
+ },
+ {
+  "name": "20200717_160005.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_160005.png"
+ },
+ {
+  "name": "20200717_160040.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200717_160040.png"
+ },
+ {
+  "name": "20200718_100829.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200718_100829.jpg"
+ },
+ {
+  "name": "20200720_094817.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200720_094817.png"
+ },
+ {
+  "name": "20200728_211759.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200728_211759.png"
+ },
+ {
+  "name": "20200815_074245.png",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/20200815_074245.png"
+ },
+ {
+  "name": "At home.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/At home.jpg"
+ },
+ {
+  "name": "Babuji room inside 2017.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/Babuji room inside 2017.jpg"
+ },
+ {
+  "name": "cell phone 1425.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/cell phone 1425.jpg"
+ },
+ {
+  "name": "cell phone 1526.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/cell phone 1526.jpg"
+ },
+ {
+  "name": "cell phone 1527.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/cell phone 1527.jpg"
+ },
+ {
+  "name": "cell phone 1528.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/cell phone 1528.jpg"
+ },
+ {
+  "name": "Entrance Gate of ashram.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/Entrance Gate of ashram.jpg"
+ },
+ {
+  "name": "Holly feet.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/Holly feet.jpg"
+ },
+ {
+  "name": "Hookaa.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/Hookaa.jpg"
+ },
+ {
+  "name": "images.jpeg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/images.jpeg"
+ },
+ {
+  "name": "IMG-20181228-WA0055.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20181228-WA0055.jpg"
+ },
+ {
+  "name": "IMG-20190303-WA0016.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190303-WA0016.jpg"
+ },
+ {
+  "name": "IMG-20190306-WA0037.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190306-WA0037.jpg"
+ },
+ {
+  "name": "IMG-20190306-WA0040.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190306-WA0040.jpg"
+ },
+ {
+  "name": "IMG-20190306-WA0041.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190306-WA0041.jpg"
+ },
+ {
+  "name": "IMG-20190306-WA0042.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190306-WA0042.jpg"
+ },
+ {
+  "name": "IMG-20190306-WA0045.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190306-WA0045.jpg"
+ },
+ {
+  "name": "IMG-20190402-WA0042.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190402-WA0042.jpg"
+ },
+ {
+  "name": "IMG-20190407-WA0063.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190407-WA0063.jpg"
+ },
+ {
+  "name": "IMG-20190408-WA0013.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190408-WA0013.jpg"
+ },
+ {
+  "name": "IMG-20190409-WA0034.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190409-WA0034.jpg"
+ },
+ {
+  "name": "IMG-20190425-WA0012.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190425-WA0012.jpg"
+ },
+ {
+  "name": "IMG-20190426-WA0084.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190426-WA0084.jpg"
+ },
+ {
+  "name": "IMG-20190614-WA0002.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190614-WA0002.jpg"
+ },
+ {
+  "name": "IMG-20190722-WA0010.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190722-WA0010.jpg"
+ },
+ {
+  "name": "IMG-20190815-WA0001.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190815-WA0001.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0077.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0077.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0084.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0084.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0085.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0085.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0087.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0087.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0088.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0088.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0090.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0090.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0093.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0093.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0098.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0098.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0099.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0099.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0101.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0101.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0107.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0107.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0109.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0109.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0111.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0111.jpg"
+ },
+ {
+  "name": "IMG-20190902-WA0122.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190902-WA0122.jpg"
+ },
+ {
+  "name": "IMG-20190915-WA0025.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190915-WA0025.jpg"
+ },
+ {
+  "name": "IMG-20190917-WA0000.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20190917-WA0000.jpg"
+ },
+ {
+  "name": "IMG-20191010-WA0003.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191010-WA0003.jpg"
+ },
+ {
+  "name": "IMG-20191011-WA0005.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191011-WA0005.jpg"
+ },
+ {
+  "name": "IMG-20191011-WA0006.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191011-WA0006.jpg"
+ },
+ {
+  "name": "IMG-20191011-WA0007.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191011-WA0007.jpg"
+ },
+ {
+  "name": "IMG-20191019-WA0010.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191019-WA0010.jpg"
+ },
+ {
+  "name": "IMG-20191020-WA0010.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191020-WA0010.jpg"
+ },
+ {
+  "name": "IMG-20191020-WA0011.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191020-WA0011.jpg"
+ },
+ {
+  "name": "IMG-20191029-WA0009.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191029-WA0009.jpg"
+ },
+ {
+  "name": "IMG-20191029-WA0010.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191029-WA0010.jpg"
+ },
+ {
+  "name": "IMG-20191102-WA0005.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191102-WA0005.jpg"
+ },
+ {
+  "name": "IMG-20191103-WA0001.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191103-WA0001.jpg"
+ },
+ {
+  "name": "IMG-20191103-WA0013.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191103-WA0013.jpg"
+ },
+ {
+  "name": "IMG-20191104-WA0000.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191104-WA0000.jpg"
+ },
+ {
+  "name": "IMG-20191110-WA0001.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191110-WA0001.jpg"
+ },
+ {
+  "name": "IMG-20191110-WA0010.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20191110-WA0010.jpg"
+ },
+ {
+  "name": "IMG-20200101-WA0024.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200101-WA0024.jpg"
+ },
+ {
+  "name": "IMG-20200104-WA0001.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200104-WA0001.jpg"
+ },
+ {
+  "name": "IMG-20200105-WA0013.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200105-WA0013.jpg"
+ },
+ {
+  "name": "IMG-20200110-WA0013.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200110-WA0013.jpg"
+ },
+ {
+  "name": "IMG-20200113-WA0015.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200113-WA0015.jpg"
+ },
+ {
+  "name": "IMG-20200116-WA0024.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200116-WA0024.jpg"
+ },
+ {
+  "name": "IMG-20200118-WA0016.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200118-WA0016.jpg"
+ },
+ {
+  "name": "IMG-20200119-WA0023.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200119-WA0023.jpg"
+ },
+ {
+  "name": "IMG-20200127-WA0020.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200127-WA0020.jpg"
+ },
+ {
+  "name": "IMG-20200128-WA0003.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200128-WA0003.jpg"
+ },
+ {
+  "name": "IMG-20200129-WA0020.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200129-WA0020.jpg"
+ },
+ {
+  "name": "IMG-20200130-WA0016.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200130-WA0016.jpg"
+ },
+ {
+  "name": "IMG-20200130-WA0020.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200130-WA0020.jpg"
+ },
+ {
+  "name": "IMG-20200131-WA0004.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200131-WA0004.jpg"
+ },
+ {
+  "name": "IMG-20200202-WA0024.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200202-WA0024.jpg"
+ },
+ {
+  "name": "IMG-20200205-WA0073.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200205-WA0073.jpg"
+ },
+ {
+  "name": "IMG-20200209-WA0032.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200209-WA0032.jpg"
+ },
+ {
+  "name": "IMG-20200216-WA0014.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200216-WA0014.jpg"
+ },
+ {
+  "name": "IMG-20200217-WA0027.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200217-WA0027.jpg"
+ },
+ {
+  "name": "IMG-20200223-WA0017.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200223-WA0017.jpg"
+ },
+ {
+  "name": "IMG-20200227-WA0010.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200227-WA0010.jpg"
+ },
+ {
+  "name": "IMG-20200229-WA0014.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200229-WA0014.jpg"
+ },
+ {
+  "name": "IMG-20200304-WA0010.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200304-WA0010.jpg"
+ },
+ {
+  "name": "IMG-20200311-WA0011.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200311-WA0011.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0005.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0005.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0006.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0006.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0007.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0007.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0008.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0008.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0009.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0009.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0014.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0014.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0015.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0015.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0018.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0018.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0020.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0020.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0021.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0021.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0024.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0024.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0026.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0026.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0028.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0028.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0029.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0029.jpg"
+ },
+ {
+  "name": "IMG-20200430-WA0031.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200430-WA0031.jpg"
+ },
+ {
+  "name": "IMG-20200501-WA0001.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200501-WA0001.jpg"
+ },
+ {
+  "name": "IMG-20200503-WA0002.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200503-WA0002.jpg"
+ },
+ {
+  "name": "IMG-20200504-WA0021.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200504-WA0021.jpg"
+ },
+ {
+  "name": "IMG-20200504-WA0029.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200504-WA0029.jpg"
+ },
+ {
+  "name": "IMG-20200504-WA0056.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200504-WA0056.jpg"
+ },
+ {
+  "name": "IMG-20200507-WA0002.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200507-WA0002.jpg"
+ },
+ {
+  "name": "IMG-20200507-WA0008.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200507-WA0008.jpg"
+ },
+ {
+  "name": "IMG-20200510-WA0024.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200510-WA0024.jpg"
+ },
+ {
+  "name": "IMG-20200514-WA0028.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200514-WA0028.jpg"
+ },
+ {
+  "name": "IMG-20200514-WA0029.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200514-WA0029.jpg"
+ },
+ {
+  "name": "IMG-20200515-WA0004.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200515-WA0004.jpg"
+ },
+ {
+  "name": "IMG-20200515-WA0045.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200515-WA0045.jpg"
+ },
+ {
+  "name": "IMG-20200516-WA0029.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200516-WA0029.jpg"
+ },
+ {
+  "name": "IMG-20200517-WA0069.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200517-WA0069.jpg"
+ },
+ {
+  "name": "IMG-20200519-WA0003.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200519-WA0003.jpg"
+ },
+ {
+  "name": "IMG-20200519-WA0024.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200519-WA0024.jpg"
+ },
+ {
+  "name": "IMG-20200522-WA0005.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200522-WA0005.jpg"
+ },
+ {
+  "name": "IMG-20200524-WA0070.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200524-WA0070.jpg"
+ },
+ {
+  "name": "IMG-20200525-WA0028.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200525-WA0028.jpg"
+ },
+ {
+  "name": "IMG-20200525-WA0052.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200525-WA0052.jpg"
+ },
+ {
+  "name": "IMG-20200527-WA0018.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200527-WA0018.jpg"
+ },
+ {
+  "name": "IMG-20200602-WA0008.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200602-WA0008.jpg"
+ },
+ {
+  "name": "IMG-20200603-WA0022.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200603-WA0022.jpg"
+ },
+ {
+  "name": "IMG-20200603-WA0037.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200603-WA0037.jpg"
+ },
+ {
+  "name": "IMG-20200605-WA0031.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200605-WA0031.jpg"
+ },
+ {
+  "name": "IMG-20200609-WA0061.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200609-WA0061.jpg"
+ },
+ {
+  "name": "IMG-20200613-WA0010.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200613-WA0010.jpg"
+ },
+ {
+  "name": "IMG-20200614-WA0036.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200614-WA0036.jpg"
+ },
+ {
+  "name": "IMG-20200617-WA0016.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200617-WA0016.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0021.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0021.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0023.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0023.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0024.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0024.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0026.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0026.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0027.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0027.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0030.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0030.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0031.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0031.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0033.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0033.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0034.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0034.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0035.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0035.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0036.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0036.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0037.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0037.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0038.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0038.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0039.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0039.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0040.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0040.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0043.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0043.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0044.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0044.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0047.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0047.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0048.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0048.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0049.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0049.jpg"
+ },
+ {
+  "name": "IMG-20200618-WA0050.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200618-WA0050.jpg"
+ },
+ {
+  "name": "IMG-20200703-WA0025.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200703-WA0025.jpg"
+ },
+ {
+  "name": "IMG-20200703-WA0027.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200703-WA0027.jpg"
+ },
+ {
+  "name": "IMG-20200703-WA0029.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200703-WA0029.jpg"
+ },
+ {
+  "name": "IMG-20200703-WA0030.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200703-WA0030.jpg"
+ },
+ {
+  "name": "IMG-20200703-WA0033.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200703-WA0033.jpg"
+ },
+ {
+  "name": "IMG-20200703-WA0050.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200703-WA0050.jpg"
+ },
+ {
+  "name": "IMG-20200705-WA0041.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200705-WA0041.jpg"
+ },
+ {
+  "name": "IMG-20200709-WA0034.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200709-WA0034.jpg"
+ },
+ {
+  "name": "IMG-20200709-WA0077.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200709-WA0077.jpg"
+ },
+ {
+  "name": "IMG-20200709-WA0078.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200709-WA0078.jpg"
+ },
+ {
+  "name": "IMG-20200709-WA0079.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200709-WA0079.jpg"
+ },
+ {
+  "name": "IMG-20200712-WA0014.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200712-WA0014.jpg"
+ },
+ {
+  "name": "IMG-20200715-WA0021.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200715-WA0021.jpg"
+ },
+ {
+  "name": "IMG-20200717-WA0000.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200717-WA0000.jpg"
+ },
+ {
+  "name": "IMG-20200717-WA0024.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200717-WA0024.jpg"
+ },
+ {
+  "name": "IMG-20200717-WA0027.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20200717-WA0027.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0027.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0027.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0033.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0033.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0053.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0053.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0054.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0054.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0056.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0056.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0057.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0057.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0058.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0058.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0059.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0059.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0060.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0060.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0062.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0062.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0063.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0063.jpg"
+ },
+ {
+  "name": "IMG-20230503-WA0064.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230503-WA0064.jpg"
+ },
+ {
+  "name": "IMG-20230504-WA0042.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230504-WA0042.jpg"
+ },
+ {
+  "name": "IMG-20230810-WA0030.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20230810-WA0030.jpg"
+ },
+ {
+  "name": "IMG-20231122-WA0044.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20231122-WA0044.jpg"
+ },
+ {
+  "name": "IMG-20240126-WA0026.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240126-WA0026.jpg"
+ },
+ {
+  "name": "IMG-20240202-WA0028.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240202-WA0028.jpg"
+ },
+ {
+  "name": "IMG-20240203-WA0019.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240203-WA0019.jpg"
+ },
+ {
+  "name": "IMG-20240212-WA0014.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240212-WA0014.jpg"
+ },
+ {
+  "name": "IMG-20240214-WA0020.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240214-WA0020.jpg"
+ },
+ {
+  "name": "IMG-20240215-WA0006.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240215-WA0006.jpg"
+ },
+ {
+  "name": "IMG-20240215-WA0007.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240215-WA0007.jpg"
+ },
+ {
+  "name": "IMG-20240215-WA0008.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240215-WA0008.jpg"
+ },
+ {
+  "name": "IMG-20240219-WA0026.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240219-WA0026.jpg"
+ },
+ {
+  "name": "IMG-20240221-WA0033.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240221-WA0033.jpg"
+ },
+ {
+  "name": "IMG-20240223-WA0030.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240223-WA0030.jpg"
+ },
+ {
+  "name": "IMG-20240225-WA0024.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240225-WA0024.jpg"
+ },
+ {
+  "name": "IMG-20240225-WA0025.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240225-WA0025.jpg"
+ },
+ {
+  "name": "IMG-20240228-WA0046.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240228-WA0046.jpg"
+ },
+ {
+  "name": "IMG-20240229-WA0028.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240229-WA0028.jpg"
+ },
+ {
+  "name": "IMG-20240303-WA0020.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240303-WA0020.jpg"
+ },
+ {
+  "name": "IMG-20240305-WA0020.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240305-WA0020.jpg"
+ },
+ {
+  "name": "IMG-20240308-WA0050.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240308-WA0050.jpg"
+ },
+ {
+  "name": "IMG-20240309-WA0023.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240309-WA0023.jpg"
+ },
+ {
+  "name": "IMG-20240310-WA0032.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/IMG-20240310-WA0032.jpg"
+ },
+ {
+  "name": "In abroad.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/In abroad.jpg"
+ },
+ {
+  "name": "Present meditation room .jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/Present meditation room .jpg"
+ },
+ {
+  "name": "Present arrangement.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/Present arrangement.jpg"
+ },
+ {
+  "name": "Present inside meditation room.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/Present inside meditation room.jpg"
+ },
+ {
+  "name": "Present inside.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/Present inside.jpg"
+ },
+ {
+  "name": "Visiting ashram.jpg",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Gallery\/Visiting ashram.jpg"
+ },
+ {
+  "name": "2nd method of cleanin in telugu.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/2nd%20method%20of%20cleanin%20in%20telugu.mp4"
+ },
+ {
+  "name": "2nd method of cleaning.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/2nd%20method%20of%20cleaning.mp4"
+ },
+ {
+  "name": "3&4 point Japa english.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/3&4%20point%20Japa%20english.mp4"
+ },
+ {
+  "name": "3&4 point Japa in telugu.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/3&4%20point%20Japa%20in%20telugu.mp4"
+ },
+ {
+  "name": "75 years photo vedio.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/75%20years%20photo%20vedio.mp4"
+ },
+ {
+  "name": "Cleaning method in English-2.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Cleaning%20method%20in%20English-2.mp4"
+ },
+ {
+  "name": "cleaning method in Telugu-1.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/cleaning%20method%20in%20Telugu-1.mp4"
+ },
+ {
+  "name": "Cleaning method in Telugu-2.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Cleaning%20method%20in%20Telugu-2.mp4"
+ },
+ {
+  "name": "Cleaning3 (Ocean of Bliss)English.mov",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Cleaning3%20(Ocean%20of%20Bliss)English.mov"
+ },
+ {
+  "name": "Cleaning3 (Ocean of Bliss)Telugu.mov",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Cleaning3%20(Ocean%20of%20Bliss)Telugu.mov"
+ },
+ {
+  "name": "Clening method in english-1.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Clening%20method%20in%20english-1.mp4"
+ },
+ {
+  "name": "Goal of Human life.mov",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Goal%20of%20Human%20life.mov"
+ },
+ {
+  "name": "Meditation on Point A and B.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Meditation%20on%20Point%20A%20and%20B.mp4"
+ },
+ {
+  "name": "Panoramic view 2 Eng.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Panoramic%20view%202%20Eng.mp4"
+ },
+ {
+  "name": "Panoramic view Telugu.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Panoramic%20view%20Telugu.mp4"
+ },
+ {
+  "name": "Prayer in English.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Prayer%20in%20English.mp4"
+ },
+ {
+  "name": "Prayer in Telugu.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Prayer%20in%20Telugu.mp4"
+ },
+ {
+  "name": "Sahaj Marg.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Sahaj%20Marg.mp4"
+ },
+ {
+  "name": "Special Meditation in Telugu.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Special%20Meditation%20in%20Telugu.mp4"
+ },
+ {
+  "name": "Special Meditation...mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Special%20Meditation...mp4"
+ },
+ {
+  "name": "VID-20200511-WA0012.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/VID-20200511-WA0012.mp4"
+ },
+ {
+  "name": "VID-20200721-WA0003.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/VID-20200721-WA0003.mp4"
+ },
+ {
+  "name": "125th Birthday",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/125.mp4"
  }
 ]
 
