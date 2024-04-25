@@ -3933,8 +3933,24 @@ export class DataService {
   "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/VID-20200721-WA0003.mp4"
  },
  {
-  "name": "125th Birthday of Babuji Maharaj",
-  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/125th.mp4"
+  "name": "125th Birthday",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/125.mp4"
+ },
+ {
+  "name": "Danish_Film_71-75_Complet",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Books\/Esotericism\/New%202024\/Danish_Film_71-75_Complet.pdf"
+ },
+ {
+  "name": "Face-to-Face",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Books\/Esotericism\/New%202024\/Face-to-Face.pdf"
+ },
+ {
+  "name": "press conf. 5-5-76",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Books\/Esotericism\/New%202024\/press%20conf.%205-5-76.pdf"
+ },
+ {
+  "name": "Sahaj_Marg_Catechism",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Books\/Esotericism\/New%202024\/Sahaj_Marg_Catechism.pdf"
  }
 ]
 
