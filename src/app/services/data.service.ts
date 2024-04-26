@@ -3877,20 +3877,20 @@ export class DataService {
   "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Cleaning%20method%20in%20Telugu-2.mp4"
  },
  {
-  "name": "Cleaning3 (Ocean of Bliss)English.mov",
-  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Cleaning3%20(Ocean%20of%20Bliss)English.mov"
+  "name": "Cleaning3 (Ocean of Bliss)English.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Cleaning3%20(Ocean%20of%20Bliss)English.mp4"
  },
  {
-  "name": "Cleaning3 (Ocean of Bliss)Telugu.mov",
-  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Cleaning3%20(Ocean%20of%20Bliss)Telugu.mov"
+  "name": "Cleaning3 (Ocean of Bliss)Telugu.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Cleaning3%20(Ocean%20of%20Bliss)Telugu.mp4"
  },
  {
   "name": "Clening method in english-1.mp4",
   "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Clening%20method%20in%20english-1.mp4"
  },
  {
-  "name": "Goal of Human life.mov",
-  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Goal%20of%20Human%20life.mov"
+  "name": "Goal of Human life.mp4",
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/Goal%20of%20Human%20life.mp4"
  },
  {
   "name": "Meditation on Point A and B.mp4",
@@ -3934,7 +3934,7 @@ export class DataService {
  },
  {
   "name": "125th Birthday",
-  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/125.mp4"
+  "url": "https:\/\/babujisahajmarg.in\/assests\/Videos\/125th.mp4"
  },
  {
   "name": "Danish_Film_71-75_Complet",
